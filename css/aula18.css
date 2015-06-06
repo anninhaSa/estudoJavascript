@@ -1,0 +1,22 @@
+fieldset {
+	width: 145px;
+}
+
+label {
+	display: block;
+	float: left;
+}
+
+label, input {
+	width: 68px;
+	margin: 3px 0;
+}
+
+img {
+	width: 172px;
+	height: 60px;
+}
+#classificacao {
+	color: #ff0000;
+	width: 145px;
+}
